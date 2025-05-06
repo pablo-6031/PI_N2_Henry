@@ -1,6 +1,6 @@
-# PI_N2_Henry
+# Análisis del Sector de Telecomunicaciones en Argentina
 
-Análisis del Sector de Telecomunicaciones en Argentina
+
 
 # Descripción del Proyecto
 
